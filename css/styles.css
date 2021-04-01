@@ -29,7 +29,7 @@ h3 {
 
 p {
   line-height: 2;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 
 hr {
@@ -147,20 +147,20 @@ object-fit: cover;
 }
 
 .contactqtn {
-  margin: 40px auto 40px;
+  margin: 60px auto 60px;
 }
 
 .myButton {
 	background:linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
 	background-color:#11cdd4;
-	border-radius:8px;
+	border-radius:10px;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
 	font-family: 'Montserrat', sans-serif;
-	font-size:16px;
+	font-size:22px;
   font-weight: bold;
-	padding:13px 32px;
+	padding:18px 40px;
 	text-decoration:none;
 	text-shadow:0 1px 0 #3d768a;
   margin: 50px auto 80px;
