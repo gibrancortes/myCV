@@ -54,6 +54,7 @@ text-decoration: none;
   position: relative;
   padding-top: 100px;
   margin-bottom: 300px;
+  box-shadow: 0 12px 8px 8px #40514E inset;
 }
 
 .bottom-container {
