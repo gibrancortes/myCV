@@ -61,7 +61,7 @@ text-decoration: none;
   background-color: #effffb;
   position: relative;
   padding-top: 100px;
-  margin-bottom: 1200px;
+  margin-bottom: 300px;
 }
 
 .bottom-container {
@@ -74,15 +74,14 @@ position: absolute;
 z-index: -1;
 top: 0;
 left: 0;
-height: auto;
-max-height: 300px;
-width: 100%;
+max-height: 100%;
+max-width: 100%;
 }
 
 .a-programmer {
   color: #effffb;
   font-weight: normal;
-  font-size: 0.5rem;
+  font-size: 0.75rem;
 }
 
 /*
