@@ -121,14 +121,14 @@ object-fit: cover;
   height: 11.25rem;
   width: 11.25rem;
   float: left; /*USE "clear" ON A SPECIFIC TEXT (h1, p, etc.) IMAGE, ETC., TO CLEAR A SPECIFIC SIDE SO IT DOESN'T WRAP ACCORDING TO A FLOAT ELEMENT*/
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 .skillwebdev {
   height: 11.25rem;
   width: 11.25rem;
   float: right;
-  margin-left: 30px;
+  margin-left: 20px;
 }
 
 .skillvideoedit {
@@ -136,7 +136,7 @@ object-fit: cover;
   height: 11.25rem;
   width: 11.25rem;
   float: left; /*USE "clear" ON A SPECIFIC TEXT (h1, p, etc.) IMAGE, ETC., TO CLEAR A SPECIFIC SIDE SO IT DOESN'T WRAP ACCORDING TO A FLOAT ELEMENT*/
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 .contact-me {
