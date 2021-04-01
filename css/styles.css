@@ -75,13 +75,14 @@ z-index: -1;
 top: 0;
 left: 0;
 height: auto;
+max-height: 300px;
 width: 100%;
 }
 
 .a-programmer {
   color: #effffb;
   font-weight: normal;
-  font-size: 3.5rem;
+  font-size: 1.5rem;
 }
 
 /*
