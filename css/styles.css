@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  font-size: 3vw;
+  font-size: 4vw;
   margin: 50px auto 0;
   font-family: 'Sacramento', cursive;
   color: #EAF6F6;
@@ -55,7 +55,7 @@ text-decoration: none;
   background-color: #effffb;
   position: relative;
   padding-top: 100px;
-  height: 16%;
+  height: 18%;
   weight: 100%;
   margin-bottom: 200px;
 }
@@ -78,7 +78,7 @@ object-fit: cover;
 .a-programmer {
   color: #effffb;
   font-weight: normal;
-  font-size: 2vw;
+  font-size: 2.5vw;
 }
 
 /*
