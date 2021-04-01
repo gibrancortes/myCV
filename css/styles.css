@@ -104,7 +104,7 @@ object-fit: cover;
 
 .profile {
   margin: 100px auto 0;
-  width: 30%;
+  width: 60%;
 }
 
 .profile-pic {
@@ -147,7 +147,7 @@ object-fit: cover;
 }
 
 .contactqtn {
-  margin: 60px auto 60px;
+  margin: 80px auto 80px;
 }
 
 .myButton {
@@ -159,7 +159,7 @@ object-fit: cover;
 	color:#ffffff;
 	font-family: 'Montserrat', sans-serif;
 	font-size:22px;
-  font-weight: bold;
+        font-weight: bold;
 	padding:18px 40px;
 	text-decoration:none;
 	text-shadow:0 1px 0 #3d768a;
