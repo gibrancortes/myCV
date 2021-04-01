@@ -54,7 +54,7 @@ text-decoration: none;
   position: relative;
   padding-top: 100px;
   margin-bottom: 300px;
-  box-shadow: 0 0 12px 12px white inset;
+  box-shadow: 0 0 12px 12px white;
 }
 
 .bottom-container {
