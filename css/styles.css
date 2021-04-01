@@ -55,7 +55,7 @@ text-decoration: none;
   background-color: #effffb;
   position: relative;
   padding-top: 100px;
-  height: 798px;
+  height: 20%;
   weight: 100%;
   margin-bottom: 200px;
 }
@@ -78,7 +78,7 @@ object-fit: cover;
 .a-programmer {
   color: #effffb;
   font-weight: normal;
-  font-size: 2.75rem;
+  font-size: 5vw;
 }
 
 /*
