@@ -181,6 +181,7 @@ object-fit: cover;
 }
 
 .footer-link {
+  font-size: 1.5rem;
   font-weight: bold;
   color: #11999E;
   margin: 0 20px;
@@ -193,4 +194,5 @@ object-fit: cover;
   font-size: 0.85rem;
   margin-top: 20px;
   color: #EAF6F6;
+  text-align: center;
 }
