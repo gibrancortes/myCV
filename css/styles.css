@@ -30,6 +30,7 @@ h3 {
 p {
   line-height: 2;
   font-size: 2rem;
+  text-align: justify;
 }
 
 ul {
@@ -62,7 +63,7 @@ text-decoration: none;
   background-color: #effffb;
   position: relative;
   padding-top: 100px;
-  height: 7rem;
+  height: 30rem;
   weight: 100%;
   margin-bottom: 200px;
 }
@@ -119,7 +120,7 @@ object-fit: cover;
 
 .skill-row {
   margin: 100px auto 125px;
-  width: 80%;
+  width: 75%;
   text-align: left;
 }
 
@@ -128,14 +129,14 @@ object-fit: cover;
   height: 11.25rem;
   width: 11.25rem;
   float: left; /*USE "clear" ON A SPECIFIC TEXT (h1, p, etc.) IMAGE, ETC., TO CLEAR A SPECIFIC SIDE SO IT DOESN'T WRAP ACCORDING TO A FLOAT ELEMENT*/
-  margin-right: 2px;
+  margin-right: 50px;
 }
 
 .skillwebdev {
   height: 11.25rem;
   width: 11.25rem;
-  float: right;
-  margin-left: 2px;
+  float: left;
+  margin-right: 50px;
 }
 
 .skillvideoedit {
