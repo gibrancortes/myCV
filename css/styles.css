@@ -32,6 +32,11 @@ p {
   font-size: 2rem;
 }
 
+ul {
+  line-height: 2;
+  font-size: 2rem;
+}
+
 hr {
   border: dotted #eaf6f6 6px;
   border-bottom: none;
@@ -57,7 +62,7 @@ text-decoration: none;
   background-color: #effffb;
   position: relative;
   padding-top: 100px;
-  height: 3.5rem;
+  height: 7rem;
   weight: 100%;
   margin-bottom: 200px;
 }
